@@ -1,0 +1,82 @@
+.german-flag {
+  width: 10%;
+  height: 100px;
+}
+
+.german-flag:hover {
+  width: 10%;
+  height: 100px;
+}
+
+.top{
+  background-color: black;
+  height: 33%;
+}
+
+.top:hover{
+  background-color: red;
+  height: 33%;
+}
+
+
+.middle{
+  background-color: red;
+  height: 33%;
+}
+
+.middle:hover{
+  background-color: white;
+  height: 33%;
+}
+
+.botton{
+  background-color: yellow;
+  height: 33%;
+}
+
+.top:hover{
+  background-color: green;
+  height: 33%;
+}
+
+.french-flag{
+  width: 10%;
+  height: 100px;
+  padding-top: 50px;
+ 
+
+}
+.left{
+  background-color: blue;
+  height:100%;
+  width: 33%;
+  float: left;
+}
+
+.left:hover{
+  background-color: green;
+  height:100%;
+  width: 33%;
+  float: left;
+}
+
+.center{
+  background-color: white;
+  height:100%;
+  width: 33%;
+  float: left;
+}
+
+.right{
+  background-color: red;
+  height:100%;
+  width: 33%;
+  float: left;
+}
+
+.right:hover{
+  background-color: red;
+  height:100%;
+  width: 33%;
+  float: left;
+}
